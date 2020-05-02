@@ -2,7 +2,7 @@
 
 This simple bot is just a little help to start creating one
 
-I recommend to all of you read the docs of Discord and the docs of Discord.py before you start
+**I recommend to all of you read the docs of Discord and the docs of Discord.py before you start**
 
 Discord docs: https://discordapp.com/developers/docs/intro
 
